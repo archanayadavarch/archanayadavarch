@@ -36,8 +36,8 @@ To build a career in **AI and Data Analytics** by continuously improving my tech
 ### 📫 Connect With Me
 
 * 💼 GitHub: [archanayadavarch](https://github.com/archanayadavarch)
-* linkedin:(https://www.linkedin.com/in/garchanayadav)
-* email:(archanayadavarch@gmail.com)
+* linkedin:https://www.linkedin.com/in/garchanayadav
+* email:archanayadavarch@gmail.com
 
 ### ⚡ Fun Fact
 
