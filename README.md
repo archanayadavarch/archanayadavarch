@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...# Hi there 👋, I'm Archana Yadav
 
-### Aspiring AI & Data Analytics Professional 🚀
+## Aspiring AI & Data Analytics Professional 🚀
 
 I'm passionate about **Python, Data Analytics, Machine Learning, and SQL**, and I enjoy building projects that turn data into meaningful insights.
 
@@ -39,11 +39,11 @@ I'm passionate about **Python, Data Analytics, Machine Learning, and SQL**, and 
 * 📈 Data Analytics and Power BI projects
 * 🐍 Python programming projects
 
-### 🎯 Career Goal
+## 🎯 Career Goal
 
 To build a career in **AI and Data Analytics** by continuously improving my technical skills and working on real-world projects.
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 * 💼 GitHub: [archanayadavarch](https://github.com/archanayadavarch)
 
