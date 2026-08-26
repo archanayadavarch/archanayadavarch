@@ -1,16 +1,6 @@
-## Hi there 👋
+# Hi there 👋, I'm Archana Yadav
 
-<!--
-**archanayadavarch/archanayadavarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# Hi there 👋, I'm Archana Yadav
-
-## Aspiring AI & Data Analytics Professional 🚀
+### Aspiring AI & Data Analytics Professional 🚀
 
 I'm passionate about **Python, Data Analytics, Machine Learning, and SQL**, and I enjoy building projects that turn data into meaningful insights.
 
@@ -39,11 +29,11 @@ I'm passionate about **Python, Data Analytics, Machine Learning, and SQL**, and 
 * 📈 Data Analytics and Power BI projects
 * 🐍 Python programming projects
 
-## 🎯 Career Goal
+### 🎯 Career Goal
 
 To build a career in **AI and Data Analytics** by continuously improving my technical skills and working on real-world projects.
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 * 💼 GitHub: [archanayadavarch](https://github.com/archanayadavarch)
 
@@ -54,3 +44,4 @@ I enjoy learning new technologies and turning ideas into practical projects!
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
